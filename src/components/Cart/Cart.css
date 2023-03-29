@@ -1,0 +1,14 @@
+.cart-container {
+  background-color: #f0c078;
+  padding: 20px;
+  padding-bottom: 400px;
+  position: sticky;
+  top: 0;
+}
+.cart-container h2 {
+  text-align: center;
+}
+.cart-info {
+  margin-left: 20px;
+  margin-top: 35px;
+}

@@ -1,7 +1,7 @@
 .product {
   width: 300px;
   height: 550px;
-  border: 2px solid #95a0a7;
+  border: 1px solid #95a0a7;
   border-radius: 7px;
   position: relative;
 }
