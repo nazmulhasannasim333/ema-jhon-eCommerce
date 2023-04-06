@@ -9,3 +9,17 @@
   grid-gap: 25px;
   margin: 90px 40px;
 }
+.order-checkout-btn {
+  width: 95%;
+  height: 50px;
+  background-color: #ffb303;
+  color: white;
+  font-size: 20px;
+  margin: 15px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.checkout-link {
+  text-decoration: none;
+}

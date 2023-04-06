@@ -12,3 +12,14 @@
   margin-left: 20px;
   margin-top: 35px;
 }
+.clear-cart-btn {
+  width: 95%;
+  height: 50px;
+  background-color: #ff2b2b;
+  color: white;
+  font-size: 20px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
