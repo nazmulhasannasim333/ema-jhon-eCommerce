@@ -23,3 +23,33 @@
 .checkout-link {
   text-decoration: none;
 }
+
+.pagination {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.pagination button {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 16px;
+  margin: 0 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: transparent;
+  color: #c0780d;
+  border-color: #b98107;
+}
+
+.pagination button.active {
+  font-weight: 900;
+  border-color: #101010;
+  background: #f3cd7a;
+  color: #101010;
+}
+
+.dropdwon {
+  padding: 10px 25px;
+  border: 2px solid rgb(10, 235, 10);
+}

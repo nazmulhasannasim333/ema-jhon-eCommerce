@@ -17,3 +17,13 @@
   color: orange;
   transition: 0.5s;
 }
+.user-email {
+  color: white;
+  padding-left: 10px;
+}
+
+.sign-btn {
+  background-color: #15b007;
+  padding: 7px 10px;
+  border-radius: 3px;
+}
